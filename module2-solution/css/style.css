@@ -1,6 +1,6 @@
 body {
 		font-family: cursive;
-		box-sizing: border-box
+		box-sizing: border-box;
 }
 h1 {
 	text-align: center;
@@ -10,8 +10,10 @@ h1 {
 
 div {
 	border: solid;
-	margin: 10px;
+	margin: 5px;
 	background-color: #48698A;
+	    float: left;
+
 }
 #Chicken #Beef #Sushi{
 	border: solid 5px; ;
@@ -43,7 +45,6 @@ footer {
 
   .col-lg-3 {
     width: 33.33%;
-    float: left;
   }
 }
 
