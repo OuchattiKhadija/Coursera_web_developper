@@ -1,0 +1,15 @@
+
+
+.dishes{
+	background-color: #8E8888;
+	position: relative;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	margin-top:15px;
+}
+
+.title-menu,.title-bar{
+	font-size: 1.3em;
+	font-weight: bold;
+}
