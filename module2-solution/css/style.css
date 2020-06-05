@@ -15,7 +15,7 @@ p{
 }
 
 #div-flot {
-	border: solid;
+	border: solid 4px;
 	margin: 10px;
 	background-color: #48698A;
 	float: left;
